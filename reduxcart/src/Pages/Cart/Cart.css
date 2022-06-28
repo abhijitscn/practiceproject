@@ -1,0 +1,21 @@
+.mainCart{
+    background-color: cadetblue;
+    min-height: 90vh;
+    padding: 20px;
+}
+.heading{
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+.cartCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0px;
+    background-color: aliceblue;
+    padding: 30px ;
+    border-radius: 15px;
+}
+.cartButton{
+    background-color: brown;
+}
