@@ -1,0 +1,42 @@
+.main{
+    padding: 20px;
+    display: flex;
+    min-height: 90vh;
+    justify-content: space-around;
+    background-color: cadetblue;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: white;
+    height: 40vh;
+    width: 15vw;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    
+}
+
+button{
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 6px;
+    border:none;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+.detbut{
+    background-color: brown;
+}
+button:hover{
+    background-color: blue;
+}
+.cat{
+    color:darkgreen;
+    font-size: 15px;
+    font-weight: bold;
+}
